@@ -1,0 +1,42 @@
+{
+  "name": "webgl-to-img-stream",
+  "version": "0.0.1",
+  "description": "Use a WebGL context to write the canvas's contents to a .img file. Meant to be used in Node.js",
+  "main": "webgl-to-img-stream.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinedufn/webgl-to-img-stream.js.git"
+  },
+  "keywords": [
+    "webgl",
+    "img",
+    "image",
+    "canvas",
+    "gl",
+    "context",
+    "save",
+    "pixels",
+    "ndarray",
+    "test",
+    "testing",
+    "stream"
+  ],
+  "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinedufn/webgl-to-img-stream.js/issues"
+  },
+  "homepage": "https://github.com/chinedufn/webgl-to-img-stream.js#readme",
+  "dependencies": {
+    "ndarray": "^1.0.18",
+    "save-pixels": "^2.3.4"
+  },
+  "devDependencies": {
+    "gl": "^4.0.3",
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  }
+}
