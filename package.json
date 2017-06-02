@@ -1,6 +1,6 @@
 {
   "name": "webgl-to-img-stream",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Use a WebGL context to write the canvas's contents to a .img file. Meant to be used in Node.js",
   "main": "webgl-to-img-stream.js",
   "scripts": {
