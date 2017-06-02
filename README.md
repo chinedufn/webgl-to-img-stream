@@ -1,7 +1,7 @@
 webgl-to-img-stream [![npm version](https://badge.fury.io/js/webgl-to-img-stream.svg)](http://badge.fury.io/js/webgl-to-img-stream) [![Build Status](https://travis-ci.org/chinedufn/webgl-to-img-stream.svg?branch=master)](https://travis-ci.org/chinedufn/webgl-to-img-stream)
 ===============
 
-> Convert a WebGL context's canvas' pixel data into an image, and write that image to a writable stream
+> Convert a WebGL context's canvas' pixel data into an image, and write that image to a writable stream. Meant to be used in Node.js
 
 ## Background / Initial Motivation
 
